@@ -6,7 +6,9 @@ namespace cse210_02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // HILO by Lucy Eldredge
+            Director director = new Director();
+            director.StartGame();
         }
     }
 }

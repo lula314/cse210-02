@@ -1,0 +1,16 @@
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\bin\Debug\net5.0\cse210-02.exe
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\bin\Debug\net5.0\cse210-02.deps.json
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\bin\Debug\net5.0\cse210-02.runtimeconfig.json
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\bin\Debug\net5.0\cse210-02.runtimeconfig.dev.json
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\bin\Debug\net5.0\cse210-02.dll
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\bin\Debug\net5.0\cse210-02.pdb
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\obj\Debug\net5.0\cse210-02.csproj.AssemblyReference.cache
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\obj\Debug\net5.0\cse210-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\obj\Debug\net5.0\cse210-02.AssemblyInfoInputs.cache
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\obj\Debug\net5.0\cse210-02.AssemblyInfo.cs
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\obj\Debug\net5.0\cse210-02.csproj.CoreCompileInputs.cache
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\obj\Debug\net5.0\cse210-02.dll
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\obj\Debug\net5.0\refint\cse210-02.dll
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\obj\Debug\net5.0\cse210-02.pdb
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\obj\Debug\net5.0\cse210-02.genruntimeconfig.cache
+C:\Users\leldr\OneDrive\Documents\CS\cse210\cse210-02\obj\Debug\net5.0\ref\cse210-02.dll
